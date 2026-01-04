@@ -4,7 +4,7 @@
 💻 Iniciando minha carreira como **Desenvolvedor Java**  
 🚀 Em constante aprendizado e evolução na área de tecnologia.
 
----
+
 
 ## 🧑‍💻 Sobre mim
 
@@ -13,7 +13,26 @@ Tenho interesse em back-end, lógica de programação e boas práticas de desenv
 
 Atualmente, utilizo meus estudos e projetos para consolidar a base necessária para atuar profissionalmente na área de tecnologia.
 
----
+
+
+## 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://github.com/Peu06">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-caetano-263591296/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jpcaetano2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/joao.p.caetano">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -24,7 +43,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 - 🔧 Git & GitHub
 - 💡 IntelliJ IDEA / VS Code
 
----
+
 
 ## 📚 O que estou estudando atualmente
 
@@ -34,7 +53,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 - Lógica de programação
 - Fundamentos de sistemas e redes
 
----
+
 
 ## 📂 Projetos
 
@@ -44,25 +63,8 @@ Aqui no meu GitHub você encontrará:
 - Pequenos sistemas para estudo
 - Experimentos com front-end e back-end
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=peu06&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peu06&layout=compact&theme=tokyonight" />
-</p>
-
 
 > 🚧 Muitos projetos ainda estão em construção — aprendizado em progresso!
-
----
-
-## 📫 Como me encontrar
-
-- 💼 GitHub: [github.com/Peu06](https://github.com/Peu06)
-- ✉️ Email: jpcaetano2006@gmail.com
-- 💬 LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-pedro-caetano-263591296/)
 
 ---
 
