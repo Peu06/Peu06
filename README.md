@@ -48,6 +48,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 ## 📚 O que estou estudando atualmente
 
 - Java e POO
+- Spring-Boot
 - Estruturas de dados e algoritmos
 - Desenvolvimento de aplicações
 - Lógica de programação
