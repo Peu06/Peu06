@@ -39,7 +39,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 - ☕ **Java**
 - 🧠 Programação Orientada a Objetos (POO)
 - 🌐 HTML, CSS, JavaScript (básico)
-- 🗄️ Banco de Dados (conceitos iniciais)
+- 🗄️ MySQL e PostgreSQL (básico)
 - 🔧 Git & GitHub
 - 💡 IntelliJ IDEA / VS Code
 
