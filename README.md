@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou João Pedro “Peu” Caetano!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Iniciando minha carreira como **Desenvolvedor Java**  
-🚀 Em constante aprendizado e evolução na área de tecnologia.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Iniciando minha carreira como Desenvolvedor de Software
+🚀 Em constante aprendizado e evolução na área de tecnologia
 
 
 
@@ -36,8 +36,9 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ☕ **Java**
+- ☕ Java
 - 🧠 Programação Orientada a Objetos (POO)
+- 🌱 Spring Boot 
 - 🌐 HTML, CSS, JavaScript (básico)
 - 🗄️ MySQL e PostgreSQL (básico)
 - 🔧 Git & GitHub
