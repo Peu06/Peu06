@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Pedro “Peu” Caetano!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 💻 Iniciando minha carreira como **Desenvolvedor de Software**
+- ☕ Iniciando minha carreira como **Desenvolvedor Java**
 - 🚀 Em constante aprendizado e evolução na área de tecnologia
 
 
