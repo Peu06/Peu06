@@ -39,9 +39,9 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 - ☕ Java
 - 🧠 Programação Orientada a Objetos (POO)
 - 🌱 Spring Boot
-- ⚛️ React e Vite
-- 🌐 HTML, CSS, JavaScript
-- 🗄️ MySQL e PostgreSQL
+- ⚛️ React & Vite
+- 🌐 HTML, CSS & JavaScript
+- 🗄️ MySQL & PostgreSQL
 - 🔧 Git & GitHub
 - 💡 IntelliJ IDEA / VS Code
 
