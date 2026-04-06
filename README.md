@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou João Pedro “Peu” Caetano!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- ☕ Iniciando minha carreira como **Desenvolvedor Java**
+- 📚 Desenvolvedor Full Stack | Spring | React | MySQL | API Rest 
 - 🚀 Em constante aprendizado e evolução na área de tecnologia
 
 
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de ADS e estou dando meus primeiros passos no desenvolvimento de software, com foco principal em **Java** e **Programação Orientada a Objetos**.  
-Tenho interesse em back-end, lógica de programação e boas práticas de desenvolvimento.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack. Possuo conhecimentos em construção de APIs REST com Java e Spring Boot, além de experiência com desenvolvimento web utilizando React e banco de dados MySQL. Busco oportunidade para aplicar boas práticas de programação, contribuir com equipes de 
+tecnologia e evoluir profissionalmente na área de desenvolvimento de software.
 
 Atualmente, utilizo meus estudos e projetos para consolidar a base necessária para atuar profissionalmente na área de tecnologia.
 
@@ -38,9 +38,10 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 
 - ☕ Java
 - 🧠 Programação Orientada a Objetos (POO)
-- 🌱 Spring Boot 
-- 🌐 HTML, CSS, JavaScript (básico)
-- 🗄️ MySQL e PostgreSQL (básico)
+- 🌱 Spring Boot
+- ⚛️ React e Vite
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ MySQL e PostgreSQL
 - 🔧 Git & GitHub
 - 💡 IntelliJ IDEA / VS Code
 
@@ -50,6 +51,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 
 - Java e POO
 - Spring-Boot
+- React + Vite
 - Estruturas de dados e algoritmos
 - Desenvolvimento de aplicações
 - Lógica de programação
