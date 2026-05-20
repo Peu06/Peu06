@@ -1,15 +1,14 @@
 # 👋 Olá, eu sou João Pedro “Peu” Caetano!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 📚 Desenvolvedor Full Stack | Spring | React | MySQL | API Rest 
+- 📚 Desenvolvedor Back-End | Spring | .NET | API Rest 
 - 🚀 Em constante aprendizado e evolução na área de tecnologia
 
 
 
 ## 🧑‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack. Possuo conhecimentos em construção de APIs REST com Java e Spring Boot, além de experiência com desenvolvimento web utilizando React e banco de dados MySQL. Busco oportunidade para aplicar boas práticas de programação, contribuir com equipes de 
-tecnologia e evoluir profissionalmente na área de desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Back-End. Possuo conhecimentos em construção de APIs REST com Java e Spring Boot, além de experiência com desenvolvimento web utilizando React e banco de dados MySQL. Busco oportunidade para aplicar boas práticas de programação, contribuir com equipes de tecnologia e evoluir profissionalmente na área de desenvolvimento de software.
 
 Atualmente, utilizo meus estudos e projetos para consolidar a base necessária para atuar profissionalmente na área de tecnologia.
 
@@ -37,10 +36,12 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 ## 🛠️ Tecnologias e Ferramentas
 
 - ☕ Java
+- ☪️ C#
 - 🧠 Programação Orientada a Objetos (POO)
 - 🌱 Spring Boot
+- 🌐 .NET
 - ⚛️ React & Vite
-- 🌐 HTML, CSS & JavaScript
+- 💻 HTML, CSS & JavaScript
 - 🗄️ MySQL & PostgreSQL
 - 🔧 Git & GitHub
 - 💡 IntelliJ IDEA / VS Code
@@ -49,8 +50,9 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 
 ## 📚 O que estou estudando atualmente
 
-- Java e POO
+- Java, C# e POO
 - Spring-Boot
+- .NET
 - React + Vite
 - Estruturas de dados e algoritmos
 - Desenvolvimento de aplicações
@@ -63,7 +65,7 @@ Atualmente, utilizo meus estudos e projetos para consolidar a base necessária p
 
 Aqui no meu GitHub você encontrará:
 - Projetos acadêmicos
-- Exercícios práticos em Java
+- Exercícios práticos
 - Pequenos sistemas para estudo
 - Experimentos com front-end e back-end
 
